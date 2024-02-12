@@ -1,0 +1,172 @@
+[
+  {
+    "name": "viaversion",
+    "url": "https://repo.viaversion.com/everything/com/viaversion/viaversion/4.9.0-23w45a-SNAPSHOT/viaversion-4.9.0-23w45a-20231109.074612-2.jar",
+    "bytes": 4143582
+  },
+  {
+    "name": "viarewind",
+    "url": "https://repo.viaversion.com/everything/com/viaversion/viarewind-common/3.0.4-SNAPSHOT/viarewind-common-3.0.4-20231120.184750-12.jar",
+    "bytes": 421649
+  },
+  {
+    "name": "viabackwards",
+    "url": "https://repo.viaversion.com/everything/com/viaversion/viabackwards/4.9.0-23w45a-SNAPSHOT/viabackwards-4.9.0-23w45a-20231119.152013-3.jar",
+    "bytes": 1029825
+  },
+  {
+    "name": "snakeyaml",
+    "url": "https://repo1.maven.org/maven2/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar",
+    "bytes": 334803
+  },
+  {
+    "name": "slf4j-api",
+    "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar",
+    "bytes": 41513
+  },
+  {
+    "name": "openauth",
+    "url": "https://github.com/Litarvan/OpenAuth/releases/download/v1.1.6/openauth-1.1.6.jar",
+    "bytes": 49460
+  },
+  {
+    "name": "netty-all",
+    "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar",
+    "bytes": 1779991
+  },
+  {
+    "name": "vecmath",
+    "url": "https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar",
+    "bytes": 318956
+  },
+  {
+    "name": "trove4j",
+    "url": "https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+    "bytes": 2523218
+  },
+  {
+    "name": "icu4j-core-mojang",
+    "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+    "bytes": 1634692
+  },
+  {
+    "name": "jopt-simple",
+    "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar",
+    "bytes": 62477
+  },
+  {
+    "name": "codecjorbis",
+    "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+    "bytes": 103871
+  },
+  {
+    "name": "codecwav",
+    "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+    "bytes": 5618
+  },
+  {
+    "name": "libraryjavasound",
+    "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+    "bytes": 21679
+  },
+  {
+    "name": "librarylwjglopenal",
+    "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+    "bytes": 18981
+  },
+  {
+    "name": "soundsystem",
+    "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+    "bytes": 65020
+  },
+  {
+    "name": "guava",
+    "url": "https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar",
+    "bytes": 2243036
+  },
+  {
+    "name": "commons-lang3",
+    "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
+    "bytes": 412739
+  },
+  {
+    "name": "commons-io",
+    "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
+    "bytes": 185140
+  },
+  {
+    "name": "commons-codec",
+    "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
+    "bytes": 263965
+  },
+  {
+    "name": "jinput",
+    "url": "https://libraries.minecraft.net/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+    "bytes": 208338
+  },
+  {
+    "name": "jutils",
+    "url": "https://libraries.minecraft.net/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+    "bytes": 7508
+  },
+  {
+    "name": "gson",
+    "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
+    "bytes": 190432
+  },
+  {
+    "name": "authlib",
+    "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.21/authlib-1.5.21.jar",
+    "bytes": 64412
+  },
+  {
+    "name": "realms",
+    "url": "https://libraries.minecraft.net/com/mojang/realms/1.6.1/realms-1.6.1.jar",
+    "bytes": 298229
+  },
+  {
+    "name": "commons-compress",
+    "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+    "bytes": 365552
+  },
+  {
+    "name": "httpclient",
+    "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+    "bytes": 589512
+  },
+  {
+    "name": "commons-logging",
+    "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+    "bytes": 62050
+  },
+  {
+    "name": "httpcore",
+    "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+    "bytes": 282269
+  },
+  {
+    "name": "log4j-api",
+    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
+    "bytes": 108161
+  },
+  {
+    "name": "log4j-core",
+    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
+    "bytes": 681134
+  },
+  {
+    "name": "lwjgl",
+    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar",
+    "bytes": 1014790
+  },
+  {
+    "name": "lwjgl_util",
+    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
+    "bytes": 173909
+  },
+  {
+    "name": "Pulsar",
+    "url": "https://github.com/Geuxy/Pulsar/releases/download/0.0.5/Pulsar.jar",
+    "bytes": 16669226
+  }
+]
