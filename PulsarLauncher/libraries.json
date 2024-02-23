@@ -30,9 +30,54 @@
     "bytes": 49460
   },
   {
-    "name": "netty-all",
-    "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar",
-    "bytes": 1779991
+    "name": "netty-buffer",
+    "url": "https://libraries.minecraft.net/io/netty/netty-buffer/4.1.97.Final/netty-buffer-4.1.97.Final.jar",
+    "bytes": 306590
+  },
+  {
+    "name": "netty-codec",
+    "url": "https://libraries.minecraft.net/io/netty/netty-codec/4.1.97.Final/netty-codec-4.1.97.Final.jar",
+    "bytes": 345274
+  },
+  {
+    "name": "netty-common",
+    "url": "https://libraries.minecraft.net/io/netty/netty-common/4.1.97.Final/netty-common-4.1.97.Final.jar",
+    "bytes": 659930
+  },
+  {
+    "name": "netty-handler",
+    "url": "https://libraries.minecraft.net/io/netty/netty-handler/4.1.97.Final/netty-handler-4.1.97.Final.jar",
+    "bytes": 560040
+  },
+  {
+    "name": "netty-handler-proxy",
+    "url": "https://repo1.maven.org/maven2/io/netty/netty-handler-proxy/4.1.97.Final/netty-handler-proxy-4.1.97.Final.jar",
+    "bytes": 25485
+  },
+  {
+    "name": "netty-resolver",
+    "url": "https://libraries.minecraft.net/io/netty/netty-resolver/4.1.97.Final/netty-resolver-4.1.97.Final.jar",
+    "bytes": 37792
+  },
+  {
+    "name": "netty-transport-classes-epoll",
+    "url": "https://libraries.minecraft.net/io/netty/netty-transport-classes-epoll/4.1.97.Final/netty-transport-classes-epoll-4.1.97.Final.jar",
+    "bytes": 147139
+  },
+  {
+    "name": "netty-transport-native-epoll",
+    "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar",
+    "bytes": 38954
+  },
+  {
+    "name": "netty-transport-native-unix-common",
+    "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-unix-common/4.1.97.Final/netty-transport-native-unix-common-4.1.97.Final.jar",
+    "bytes": 43897
+  },
+  {
+    "name": "netty-transport",
+    "url": "https://libraries.minecraft.net/io/netty/netty-transport/4.1.97.Final/netty-transport-4.1.97.Final.jar",
+    "bytes": 489624
   },
   {
     "name": "vecmath",
@@ -171,7 +216,7 @@
   },
   {
     "name": "Pulsar",
-    "url": "https://github.com/Geuxy/Pulsar/releases/download/0.0.5/Pulsar.jar",
-    "bytes": 16669226
+    "url": "https://github.com/Project-Pulsar/Cloud/releases/download/0.6r1/Pulsar.jar",
+    "bytes": 10775155
   }
 ]
