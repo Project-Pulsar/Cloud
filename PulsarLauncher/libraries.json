@@ -67,7 +67,7 @@
   {
     "name": "netty-transport-native-epoll",
     "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar",
-    "bytes": 38954
+    "bytes": 40427
   },
   {
     "name": "netty-transport-native-unix-common",
