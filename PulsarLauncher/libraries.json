@@ -216,7 +216,7 @@
   },
   {
     "name": "Pulsar",
-    "url": "https://github.com/Project-Pulsar/Cloud/releases/download/0.6r1/Pulsar.jar",
-    "bytes": 10775155
+    "url": "https://github.com/Project-Pulsar/Cloud/raw/main/PulsarLauncher/versions/Pulsar-0.8-TEST.jar",
+    "bytes": 10850793
   }
 ]
