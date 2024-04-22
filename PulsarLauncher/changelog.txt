@@ -1,0 +1,18 @@
+<b>0.8-DEV Changelog:</b>
++Added AutoLogin
++Changed the games icon to Pulsars
++Added increments to Sliders
++Added Y Only mode for NoWeb
++Added Custom mode for NoWeb
++Added Ghost Vulcan Flight
++Added Astolfo to Animations
++Added Orbit to Animations
++Added Tap to Animation
++Added Rotate Speed setting to Animations
++Added Phase
++Added Streamer Mode module
+~Improved the Inventory Manager
+~Made the Chest Stealer smart
+~Fixed the Anti Void triggering even if there's no Void below
+~Improved the changelog sorting
+~Redesigned options menu GUI
