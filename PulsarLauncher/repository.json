@@ -2,7 +2,10 @@
   "Info": {
     "name": "pulsar",
     "jar": "Pulsar",
-    "changelog": "https://github.com/Project-Pulsar/Cloud/raw/main/PulsarLauncher/changelog.txt"
+    "changelog": "https://github.com/Project-Pulsar/Cloud/raw/main/PulsarLauncher/changelog.txt",
+    "version": "1.8.8",
+    "assetIndex": "1.8",
+    "main": "net.minecraft.client.main.Main"
   },
   "Natives": {
     "linux": "https://github.com/Project-Pulsar/Cloud/raw/main/PulsarLauncher/bin/linux.zip",
