@@ -2,7 +2,9 @@
   "latestVersion": 1,
   "changelog": [
     "Version 1.0",
-    "+Full recode on LegacyFabric. Wow!"
+    "+Now on LegacyFabric. Wow!",
+    "-ModCoderPack",
+    "/Recoded everything"
   ],
   "blacklist": []
 }
