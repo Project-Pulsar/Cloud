@@ -1,3 +1,4 @@
+<b>Changelog Version 1.0.0</b>
 +Added modules
 ~Fully recoded the client
 ~Improved security
